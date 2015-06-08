@@ -5,7 +5,7 @@
 These are the CartoCSS map stylesheets for the Standard map layer on [OpenStreetMap.org](http://www.openstreetmap.org).
 
 These stylesheets can be used in your own cartography projects, and are designed to be easily
-customised. They work with [TileMill](http://www.mapbox.com/tilemill/) and also with the command-line [CartoCSS](https://github.com/mapbox/carto) processor.
+customised. They work with [TileMill](http://www.mapbox.com/tilemill/) [Kosmtik](https://github.com/kosmtik/kosmtik) and also with the command-line [CartoCSS](https://github.com/mapbox/carto) processor.
 
 Since August 2013 these stylesheets have been used on the OSMF tileservers (tile.openstreetmap.org), and
 are updated from each point release. They supersede the previous [XML-based stylesheets](https://trac.openstreetmap.org/browser/subversion/applications/rendering/mapnik).
